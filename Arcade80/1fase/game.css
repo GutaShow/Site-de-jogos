@@ -1,0 +1,21 @@
+body {
+    color: white;
+    margin: 0;
+    background-color: #333;
+
+  }
+.game{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 5px solid white;
+  background-image: url(img/galaxy.gif);
+  background-repeat: no-repeat;
+  background-size: 995px 606px;
+  background-position-x: center;
+  width: 990px;
+  height: 600px;
+  
+}
+
+
