@@ -1,1 +1,1 @@
-Então esse site foi o trabalho final do meu curso de Anilise e Desenvolvimento de Sistemas, ele foi feito em 2022, muitas das coisas estão sem nessecidades mas quis deixar assim para mostrar a minha evolução
+Então esse site foi o trabalho final do meu curso de Anilise e Desenvolvimento de Sistemas, ele foi feito em 2022, tem muitas coisas estão não possui nessecidade de estar ai mas quis deixar assim para mostrar a minha evolução
